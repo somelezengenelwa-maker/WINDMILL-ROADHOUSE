@@ -1,0 +1,8 @@
+{
+  "name": "The Windmill Roadhouse",
+  "description": "Authentic South African roadhouse in East London since 1946. Traditional burgers, pizzas, milkshakes, and ocean views at Quigney Beach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
